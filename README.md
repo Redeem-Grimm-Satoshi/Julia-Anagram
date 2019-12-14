@@ -1,8 +1,8 @@
-# <strong>Julia-Anagram</strong>
+#Julia-Anagram
 A Simple Anagram Search Script Written In Julia
 
 
-<h3>This Script Has 3 Functions;</h3>
+# This Script Has 3 Functions;
 1.<code>is_anagram()</code> Checks if two words are anagrams, if they're anagrams, it return true and false otherwise.
 
 2.<code>download_words()</code>  It download file containing list of words using the url you put
