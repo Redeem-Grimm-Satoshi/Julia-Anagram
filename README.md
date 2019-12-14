@@ -1,4 +1,4 @@
-<h2 style="color:red">Julia-Anagram</h2>
+# Julia-Anagram
 A Simple Anagram Search Script Written In Julia
 
 
