@@ -1,7 +1,6 @@
 # Julia-Anagram
 A Simple Anagram Search Script Written In Julia
 
-
 # This Script Has 3 Functions;
 1.<code>is_anagram()</code> Checks if two words are anagrams, if they're anagrams, it return true and false otherwise.
 
