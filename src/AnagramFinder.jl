@@ -20,8 +20,8 @@ function download_words(urlOfFile)
 end
 
 
-function find_anagram(word,words)
+function find_anagram(word,wordList)
 
-   return filter(x-> is_anagram(x,word),words)
+   return filter(x-> is_anagram(x,word),wordList)
      
 end
