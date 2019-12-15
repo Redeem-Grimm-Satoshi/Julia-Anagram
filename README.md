@@ -1,5 +1,5 @@
-# Julia-Anagram
-A Simple Anagram Search Script Written In Julia
+# AnagramFinder.jl
+Anagram Search Script Written In Julia
 
 # Screenshots
 ![codeRun1](images/codeRun1.PNG)
