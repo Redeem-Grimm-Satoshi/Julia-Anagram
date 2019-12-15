@@ -2,9 +2,9 @@
 Anagram Search Script Written In Julia
 
 # Screenshots
-![codeRun1](images/codeRun1.PNG)
-![codeRun2](images/codeRun2.PNG)
-![codeRun3](images/codeRun3.PNG)
+![codeRun1](screenshots/finalUpdate1.PNG)
+![codeRun2](screenshots/finalUpdate2.PNG)
+![codeRun3](screenshots/finalUpdate3.PNG)
 
 
 # This Script Has 3 Functions;
