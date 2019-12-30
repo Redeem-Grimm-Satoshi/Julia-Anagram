@@ -8,17 +8,15 @@ Anagram Search Script Written In Julia
 
 
 # This Script Has 3 Functions;
-1.<code>is_anagram()</code> Checks if two words are anagrams, if they're anagrams, it return true and false otherwise.
+1.`is_anagram()` Checks if two words are anagrams, if they're anagrams, it return true and false otherwise.
 
-2.<code>download_words()</code>  It download file containing list of words using the url you put
+2.`download_words()` It download file containing list of words using the url you put
 
-3.<code>find_anagram()</code>  Finds related anagrams in the download file containing list of words
+3.`find_anagram()` Finds related anagrams in the download file containing list of words
 
 # Sample Run
-<pre>
-<code>
 
-
+```jl
 julia> include("AnagramFinder.jl")
 find_anagram (generic function with 1 method)
 
@@ -152,10 +150,7 @@ julia> find_anagram("cinema",words)
  "iceman"
 
 julia>
-
-
-</code>
-</pre>
+```
 
 
 
