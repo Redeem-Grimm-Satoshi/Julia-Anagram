@@ -152,5 +152,5 @@ julia> find_anagram("cinema",words)
 julia>
 ```
 
-# Feel Free To Checkout The Script
+# Feel Free To Checkout The Script and Give Feedback
 
