@@ -1,7 +1,7 @@
 # AnagramFinder.jl
 Anagram Search Script Written In Julia
 
-# Screenshots
+# Screenshots;
 ![codeRun1](screenshots/finalUpdate1.PNG)
 ![codeRun2](screenshots/finalUpdate2.PNG)
 ![codeRun3](screenshots/finalUpdate3.PNG)
