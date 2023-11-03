@@ -1,13 +1,13 @@
 # AnagramFinder.jl
 Anagram Search Script Written In Julia
 
-# Screenshots;
+# Screenshots
 ![codeRun1](screenshots/finalUpdate1.PNG)
 ![codeRun2](screenshots/finalUpdate2.PNG)
 ![codeRun3](screenshots/finalUpdate3.PNG)
 
 
-# This Script Has 3 Functions;
+# This Script Has 3 Functions
 1.`is_anagram()` Checks if two words are anagrams, if they're anagrams, it return true and false otherwise.
 
 2.`download_words()` It download file containing list of words using the url you put
